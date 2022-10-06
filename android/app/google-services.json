@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331244644907",
+    "project_id": "camhrinternship",
+    "storage_bucket": "camhrinternship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331244644907:android:7c880402027ff76685d86e",
+        "android_client_info": {
+          "package_name": "com.example.camhr_internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331244644907-hp1262r5n32abcurl38l4n2e4dj6nk1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZEW37C4OAhXRd4Q0jGkiuL2kXKq9QOzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331244644907-hp1262r5n32abcurl38l4n2e4dj6nk1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
